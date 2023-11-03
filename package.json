@@ -1,6 +1,6 @@
 {
   "name": "arun_random_number_generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Random number generator for using OTP Text",
   "main": "index.js",
   "type": "module",
