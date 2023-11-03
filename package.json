@@ -1,0 +1,25 @@
+{
+  "name": "arun_random_number_generator",
+  "version": "1.0.0",
+  "description": "Random number generator for using OTP Text",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/er-arunkumarselvam/arun_random_number_generator.git"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "generator"
+  ],
+  "author": "Arunkumar Selvam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/er-arunkumarselvam/arun_random_number_generator/issues"
+  },
+  "homepage": "https://github.com/er-arunkumarselvam/arun_random_number_generator#readme"
+}
